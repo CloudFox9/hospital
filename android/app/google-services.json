@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "591093263192",
+    "firebase_url": "https://hospicare-bbf8b.firebaseio.com",
+    "project_id": "hospicare-bbf8b",
+    "storage_bucket": "hospicare-bbf8b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:591093263192:android:0ff6569279a5024d32132d",
+        "android_client_info": {
+          "package_name": "com.devops2906.hospital"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "591093263192-3hs7berab44ie63njpe10i3fibkbsegc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwahmHiBAnWHUHz_XoWM2Z86fGZrxoua8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "591093263192-3hs7berab44ie63njpe10i3fibkbsegc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
